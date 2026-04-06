@@ -1,0 +1,713 @@
+[
+  {
+    "post_id": 47655408,
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "category": "technology",
+    "score": 667,
+    "num_comments": 92,
+    "author": "armanified",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47658146,
+    "title": "France pulls last gold held in US for $15B gain",
+    "category": "technology",
+    "score": 325,
+    "num_comments": 188,
+    "author": "teleforce",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47656501,
+    "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
+    "category": "sports",
+    "score": 181,
+    "num_comments": 120,
+    "author": "keepamovin",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47652007,
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "category": "technology",
+    "score": 166,
+    "num_comments": 13,
+    "author": "karimf",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47656981,
+    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+    "category": "technology",
+    "score": 72,
+    "num_comments": 23,
+    "author": "stevebmark",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47637377,
+    "title": "LÖVE: 2D Game Framework for Lua",
+    "category": "sports",
+    "score": 347,
+    "num_comments": 170,
+    "author": "cl3misch",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47651540,
+    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "category": "technology",
+    "score": 322,
+    "num_comments": 77,
+    "author": "vbtechguy",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47655392,
+    "title": "Show HN: I made a YouTube search form with advanced filters",
+    "category": "entertainment",
+    "score": 266,
+    "num_comments": 163,
+    "author": "nevernothing",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47655367,
+    "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+    "category": "technology",
+    "score": 111,
+    "num_comments": 17,
+    "author": "ikessler",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47656303,
+    "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
+    "category": "science",
+    "score": 94,
+    "num_comments": 42,
+    "author": "salt4034",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47652322,
+    "title": "Music for Programming",
+    "category": "entertainment",
+    "score": 254,
+    "num_comments": 113,
+    "author": "merusame",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47655268,
+    "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
+    "category": "entertainment",
+    "score": 74,
+    "num_comments": 16,
+    "author": "mohshomis",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47655466,
+    "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+    "category": "technology",
+    "score": 317,
+    "num_comments": 179,
+    "author": "thisislife2",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47650312,
+    "title": "A tail-call interpreter in (nightly) Rust",
+    "category": "technology",
+    "score": 182,
+    "num_comments": 42,
+    "author": "g0xA52A2A",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47648828,
+    "title": "Eight years of wanting, three months of building with AI",
+    "category": "technology",
+    "score": 843,
+    "num_comments": 264,
+    "author": "brilee",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47650502,
+    "title": "Computational Physics (2nd Edition) (2025)",
+    "category": "science",
+    "score": 161,
+    "num_comments": 19,
+    "author": "teleforce",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47649742,
+    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+    "category": "technology",
+    "score": 193,
+    "num_comments": 26,
+    "author": "desideratum",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47656659,
+    "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+    "category": "technology",
+    "score": 177,
+    "num_comments": 51,
+    "author": "MoltenMonster",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47656335,
+    "title": "Does coding with LLMs mean more microservices?",
+    "category": "technology",
+    "score": 49,
+    "num_comments": 49,
+    "author": "jer0me",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47647788,
+    "title": "The threat is comfortable drift toward not understanding what you're doing",
+    "category": "worldnews",
+    "score": 894,
+    "num_comments": 586,
+    "author": "zaikunzhang",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47640728,
+    "title": "Show HN: A game where you build a GPU",
+    "category": "technology",
+    "score": 924,
+    "num_comments": 180,
+    "author": "Jaso1024",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47658388,
+    "title": "NIMBY Rails",
+    "category": "technology",
+    "score": 27,
+    "num_comments": 3,
+    "author": "altilunium",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47652549,
+    "title": "Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter",
+    "category": "technology",
+    "score": 57,
+    "num_comments": 29,
+    "author": "alvivanco",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47640380,
+    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+    "category": "technology",
+    "score": 513,
+    "num_comments": 231,
+    "author": "naves",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47655058,
+    "title": "OpenAI's fall from grace as investors race to Anthropic",
+    "category": "technology",
+    "score": 179,
+    "num_comments": 120,
+    "author": "1vuio0pswjnm7",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47651479,
+    "title": "From birds to brains: My path to the fusiform face area (2024)",
+    "category": "technology",
+    "score": 36,
+    "num_comments": 0,
+    "author": "everbody",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47646504,
+    "title": "Show HN: OsintRadar – Curated directory for osint tools",
+    "category": "entertainment",
+    "score": 73,
+    "num_comments": 9,
+    "author": "lexalizer",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47642601,
+    "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
+    "category": "entertainment",
+    "score": 166,
+    "num_comments": 28,
+    "author": "laszlokorte",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47645025,
+    "title": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input",
+    "category": "entertainment",
+    "score": 113,
+    "num_comments": 49,
+    "author": "waveywaves",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47633396,
+    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+    "category": "technology",
+    "score": 1080,
+    "num_comments": 819,
+    "author": "firloop",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47637757,
+    "title": "Embarrassingly simple self-distillation improves code generation",
+    "category": "technology",
+    "score": 644,
+    "num_comments": 197,
+    "author": "Anon84",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47648404,
+    "title": "My Google Workspace account suspension",
+    "category": "science",
+    "score": 356,
+    "num_comments": 212,
+    "author": "zenincognito",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47657198,
+    "title": "Scientists found a protein that drives brain aging – and how to stop it",
+    "category": "technology",
+    "score": 17,
+    "num_comments": 5,
+    "author": "mikhael",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47658215,
+    "title": "The end of password pain: building frictionless authentication at the Guardian",
+    "category": "technology",
+    "score": 6,
+    "num_comments": 2,
+    "author": "Tomte",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47645432,
+    "title": "Introduction to Computer Music (2009) [pdf]",
+    "category": "technology",
+    "score": 226,
+    "num_comments": 78,
+    "author": "luu",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47655155,
+    "title": "'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains",
+    "category": "technology",
+    "score": 40,
+    "num_comments": 10,
+    "author": "mikhael",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47655480,
+    "title": "Make Humans Analog Again",
+    "category": "technology",
+    "score": 6,
+    "num_comments": 0,
+    "author": "muunbo",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47613118,
+    "title": "Show HN: I built a small app for FSI German Course",
+    "category": "entertainment",
+    "score": 52,
+    "num_comments": 15,
+    "author": "syedmsawaid",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47629485,
+    "title": "A case study in testing with 100+ Claude agents in parallel",
+    "category": "science",
+    "score": 63,
+    "num_comments": 50,
+    "author": "thejash",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47625952,
+    "title": "Show HN: I built a frontpage for personal blogs",
+    "category": "entertainment",
+    "score": 770,
+    "num_comments": 194,
+    "author": "ramkarthikk",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47653036,
+    "title": "Satellite firm Planet Labs to indefinitely withold Iran war imagery",
+    "category": "worldnews",
+    "score": 38,
+    "num_comments": 12,
+    "author": "anigbrowl",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47639303,
+    "title": "Show HN: I made open source, zero power PCB hackathon badges",
+    "category": "entertainment",
+    "score": 155,
+    "num_comments": 17,
+    "author": "kaipereira",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47656682,
+    "title": "Winners of the 2026 Kokuyo Design Awards",
+    "category": "worldnews",
+    "score": 50,
+    "num_comments": 15,
+    "author": "zdw",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47639727,
+    "title": "When legal sports betting surges, so do Americans' financial problems",
+    "category": "sports",
+    "score": 219,
+    "num_comments": 143,
+    "author": "pseudolus",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47644726,
+    "title": "Power-washing, pool-cleaning and mowing – playing games about mundane jobs",
+    "category": "sports",
+    "score": 24,
+    "num_comments": 4,
+    "author": "andsoitis",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47639567,
+    "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+    "category": "entertainment",
+    "score": 163,
+    "num_comments": 6,
+    "author": "teamchong",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47611993,
+    "title": "VR Realizes the Cyberspace Metaphor",
+    "category": "science",
+    "score": 17,
+    "num_comments": 17,
+    "author": "dryadin",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47633947,
+    "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+    "category": "entertainment",
+    "score": 546,
+    "num_comments": 181,
+    "author": "detaro",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47615002,
+    "title": "Qwen3.6-Plus: Towards real world agents",
+    "category": "worldnews",
+    "score": 589,
+    "num_comments": 207,
+    "author": "pretext",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47609564,
+    "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+    "category": "sports",
+    "score": 781,
+    "num_comments": 365,
+    "author": "hkmaxpro",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47645817,
+    "title": "How Pope Leo is pushing back on divine justification of war",
+    "category": "worldnews",
+    "score": 73,
+    "num_comments": 40,
+    "author": "1659447091",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47633676,
+    "title": "Extra usage credit for Pro, Max, and Team plans",
+    "category": "sports",
+    "score": 64,
+    "num_comments": 61,
+    "author": "angst",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47641615,
+    "title": "Sopwith – 1984 Game (2000)",
+    "category": "sports",
+    "score": 97,
+    "num_comments": 42,
+    "author": "elvis70",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47650894,
+    "title": "Show HN: Gecit – DPI bypass using eBPF sock_ops, no proxy or VPN",
+    "category": "entertainment",
+    "score": 8,
+    "num_comments": 2,
+    "author": "boratanrikulu",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47606560,
+    "title": "Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",
+    "category": "entertainment",
+    "score": 152,
+    "num_comments": 118,
+    "author": "kasparnoor",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47650273,
+    "title": "Meta, Google under attack as court cases bypass 30-year-old legal shield",
+    "category": "worldnews",
+    "score": 17,
+    "num_comments": 9,
+    "author": "1vuio0pswjnm7",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47626598,
+    "title": "Show HN: ctx – an Agentic Development Environment (ADE)",
+    "category": "entertainment",
+    "score": 52,
+    "num_comments": 52,
+    "author": "luca-ctx",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47630109,
+    "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+    "category": "entertainment",
+    "score": 193,
+    "num_comments": 75,
+    "author": "MaximilianEmel",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47648593,
+    "title": "Show HN: Beautiful intuitive weather forecasts that don't rely on numbers/units",
+    "category": "entertainment",
+    "score": 3,
+    "num_comments": 8,
+    "author": "Leftium",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47604155,
+    "title": "SpaceX files to go public",
+    "category": "science",
+    "score": 398,
+    "num_comments": 576,
+    "author": "nutjob2",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47643637,
+    "title": "Show HN: Dev Personality Test",
+    "category": "entertainment",
+    "score": 14,
+    "num_comments": 3,
+    "author": "4m1rk",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47642275,
+    "title": "Netflix must refund customers for years of price hikes, Italian court rules",
+    "category": "entertainment",
+    "score": 63,
+    "num_comments": 6,
+    "author": "xbmcuser",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47621438,
+    "title": "Show HN: Made a little Artemis II tracker",
+    "category": "entertainment",
+    "score": 153,
+    "num_comments": 58,
+    "author": "codingmoh",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47640770,
+    "title": "Show HN: DocMason – Agent Knowledge Base for local complex office files",
+    "category": "entertainment",
+    "score": 11,
+    "num_comments": 0,
+    "author": "Jet_Xu",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47615756,
+    "title": "Renewables reached nearly 50% of global electricity capacity last year",
+    "category": "worldnews",
+    "score": 296,
+    "num_comments": 148,
+    "author": "Growtika",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47643580,
+    "title": "Show HN: Uncompressed – Self-hosted Netflix alternative at 60 Mbps instead of 15",
+    "category": "entertainment",
+    "score": 8,
+    "num_comments": 0,
+    "author": "lackoftactics",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47638532,
+    "title": "Show HN: Ownscribe – local meeting transcription, summarization and search",
+    "category": "entertainment",
+    "score": 16,
+    "num_comments": 0,
+    "author": "paberr",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47632692,
+    "title": "Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion",
+    "category": "entertainment",
+    "score": 23,
+    "num_comments": 14,
+    "author": "slp3r",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47631030,
+    "title": "Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment",
+    "category": "entertainment",
+    "score": 37,
+    "num_comments": 23,
+    "author": "sagirodin",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47612601,
+    "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+    "category": "entertainment",
+    "score": 900,
+    "num_comments": 432,
+    "author": "novaRom",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47653816,
+    "title": "UK intelligence censored report on global warming and homeland security",
+    "category": "worldnews",
+    "score": 95,
+    "num_comments": 54,
+    "author": "ewidar",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47651019,
+    "title": "PS3 emulator makes Cell CPU breakthrough that improves performance in all games",
+    "category": "sports",
+    "score": 8,
+    "num_comments": 0,
+    "author": "gloxkiqcza",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47607394,
+    "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
+    "category": "science",
+    "score": 40,
+    "num_comments": 6,
+    "author": "ruevs",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47618221,
+    "title": "The Australian government has announced gambling advertising reforms",
+    "category": "worldnews",
+    "score": 133,
+    "num_comments": 101,
+    "author": "gostsamo",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47645926,
+    "title": "The Spaceballs sequel will be released in April next year",
+    "category": "science",
+    "score": 8,
+    "num_comments": 1,
+    "author": "WaitWaitWha",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47645240,
+    "title": "SpaceX Pushes Back Crucial Starship Test Launch",
+    "category": "science",
+    "score": 14,
+    "num_comments": 11,
+    "author": "bookmtn",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47638085,
+    "title": "I attacked myself with Google Spreadsheets (2012)",
+    "category": "worldnews",
+    "score": 3,
+    "num_comments": 1,
+    "author": "downbad_",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47654226,
+    "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
+    "category": "science",
+    "score": 8,
+    "num_comments": 0,
+    "author": "rbanffy",
+    "collected_at": "2026-04-06 19:32:12"
+  },
+  {
+    "post_id": 47601310,
+    "title": "Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",
+    "category": "worldnews",
+    "score": 87,
+    "num_comments": 121,
+    "author": "vrganj",
+    "collected_at": "2026-04-06 19:32:12"
+  }
+]
